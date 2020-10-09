@@ -1,0 +1,9 @@
+Building Thebigcoin
+
+See doc/readme-qt.rst for instructions on building Thebigcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Thebigcoin.
+
+See doc/build-*.txt for instructions on building Thebigcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Thebigcoin.

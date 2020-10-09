@@ -66,4 +66,3 @@ Donations
 -------
 
 Released under the MIT License. See LICENSE file.
-
